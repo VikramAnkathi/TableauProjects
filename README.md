@@ -1,2 +1,5 @@
-# TableauProjetcs
-All visualizations using Tableau
+# Tableau Projects
+
+## Project 1
+### Student Income and Expenses Insights
+
